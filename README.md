@@ -25,6 +25,12 @@
   
 ## Other Technical Resource
 <details>
+<summary>Logika Dasar</summary>
+
+- [Code.org](https://code.org/)
+- [Scratch.org](https://scratch.org/)
+</details>
+<details>
 <summary>Twitter Account</summary>
 
 - [Teh atau kopi](https://twitter.com/tehataukopi)
